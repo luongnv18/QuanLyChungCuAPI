@@ -1,0 +1,164 @@
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\QuanLyChungCu.dll.config
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\QuanLyChungCu.dll
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\QuanLyChungCu.pdb
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\roslyn\csc.exe
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\roslyn\csc.exe.config
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\roslyn\csc.rsp
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\roslyn\csi.exe
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\roslyn\csi.exe.config
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\roslyn\csi.rsp
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\roslyn\System.AppContext.dll
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\roslyn\System.Console.dll
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\roslyn\System.IO.Compression.dll
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\roslyn\System.IO.Pipes.dll
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\roslyn\System.Security.Claims.dll
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\roslyn\System.ValueTuple.dll
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\roslyn\System.Xml.XPath.dll
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\roslyn\vbc.exe
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\roslyn\vbc.exe.config
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\roslyn\vbc.rsp
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\roslyn\VBCSCompiler.exe
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\Antlr3.Runtime.dll
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\Newtonsoft.Json.dll
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\System.Net.Http.Formatting.dll
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\System.Web.Helpers.dll
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\System.Web.Http.dll
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\System.Web.Http.WebHost.dll
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\System.Web.Mvc.dll
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\System.Web.Optimization.dll
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\System.Web.Razor.dll
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\System.Web.WebPages.Deployment.dll
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\System.Web.WebPages.dll
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\System.Web.WebPages.Razor.dll
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\WebGrease.dll
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\Newtonsoft.Json.xml
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\System.Net.Http.Formatting.xml
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\System.Web.Helpers.xml
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\System.Web.Http.xml
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\System.Web.Http.WebHost.xml
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\System.Web.Mvc.xml
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\System.Web.Optimization.xml
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\System.Web.Razor.xml
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\System.Web.WebPages.xml
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\System.Web.WebPages.Deployment.xml
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\System.Web.WebPages.Razor.xml
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\Antlr3.Runtime.pdb
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.csprojAssemblyReference.cache
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.csproj.CoreCompileInputs.cache
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.csproj.CopyComplete
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.dll
+C:\Users\NVL\Desktop\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.pdb
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\QuanLyChungCu.dll.config
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\QuanLyChungCu.dll
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\QuanLyChungCu.pdb
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\roslyn\csc.exe
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\roslyn\csc.exe.config
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\roslyn\csc.rsp
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\roslyn\csi.exe
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\roslyn\csi.exe.config
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\roslyn\csi.rsp
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\roslyn\System.AppContext.dll
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\roslyn\System.Collections.Immutable.dll
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\roslyn\System.Console.dll
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\roslyn\System.IO.Compression.dll
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\roslyn\System.IO.FileSystem.dll
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\roslyn\System.IO.Pipes.dll
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\roslyn\System.Reflection.Metadata.dll
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\roslyn\System.Security.AccessControl.dll
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\roslyn\System.Security.Claims.dll
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\roslyn\System.ValueTuple.dll
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\roslyn\System.Xml.XPath.dll
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\roslyn\vbc.exe
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\roslyn\vbc.exe.config
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\roslyn\vbc.rsp
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\roslyn\VBCSCompiler.exe
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\roslyn\VBCSCompiler.exe.config
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\Antlr3.Runtime.dll
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\Microsoft.Web.Infrastructure.dll
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\Newtonsoft.Json.dll
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\System.Net.Http.Formatting.dll
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\System.Web.Helpers.dll
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\System.Web.Http.dll
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\System.Web.Http.WebHost.dll
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\System.Web.Mvc.dll
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\System.Web.Optimization.dll
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\System.Web.Razor.dll
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\System.Web.WebPages.Deployment.dll
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\System.Web.WebPages.dll
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\System.Web.WebPages.Razor.dll
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\WebGrease.dll
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\Newtonsoft.Json.xml
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\System.Net.Http.Formatting.xml
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\System.Web.Helpers.xml
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\System.Web.Http.xml
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\System.Web.Http.WebHost.xml
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\System.Web.Mvc.xml
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\System.Web.Optimization.xml
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\System.Web.Razor.xml
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\System.Web.WebPages.xml
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\System.Web.WebPages.Deployment.xml
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\System.Web.WebPages.Razor.xml
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\Antlr3.Runtime.pdb
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.csprojAssemblyReference.cache
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.csproj.CoreCompileInputs.cache
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.csproj.CopyComplete
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.dll
+F:\Nam 4 ky 1\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.pdb

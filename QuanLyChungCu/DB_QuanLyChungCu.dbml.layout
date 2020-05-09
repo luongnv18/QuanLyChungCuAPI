@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="DB_QuanLyChungCu">
+  <DataContextMoniker Name="/DB_QuanLyChungCuDataContext" />
+  <nestedChildShapes>
+    <classShape Id="0140490c-17f4-41ec-a5dc-cc8255bdba75" absoluteBounds="3.5, 0.875, 2, 1.9178898111979166">
+      <DataClassMoniker Name="/DB_QuanLyChungCuDataContext/CanHo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3ccaf9cf-c951-4a3c-9056-26f02cc712df" absoluteBounds="3.515, 1.335, 1.9700000000000002, 1.3578898111979165" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ca22b7de-0541-440c-89d7-9becfb8284cb" absoluteBounds="3.75, 3.75, 2, 1.2605004882812505">
+      <DataClassMoniker Name="/DB_QuanLyChungCuDataContext/TaiKhoan" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7a725d84-7610-4916-9ee9-a2ed206f344b" absoluteBounds="3.765, 4.21, 1.9700000000000002, 0.70050048828125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="53fb5ef8-ed06-4b62-9271-574063940f56" absoluteBounds="0.75, 0.875, 2, 1.9178898111979166">
+      <DataClassMoniker Name="/DB_QuanLyChungCuDataContext/CuDan" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4c2a1f70-79eb-440d-af3d-80e37b5e9b13" absoluteBounds="0.765, 1.335, 1.9700000000000002, 1.3578898111979165" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1c5f776f-532d-49b7-b140-9711153ed69c" absoluteBounds="6.25, 1.125, 2, 1.4248478190104166">
+      <DataClassMoniker Name="/DB_QuanLyChungCuDataContext/HopDong" />
+      <nestedChildShapes>
+        <elementListCompartment Id="cec22855-0ffd-4646-bfbd-15e51653dcaa" absoluteBounds="6.265, 1.585, 1.9700000000000002, 0.86484781901041674" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3f201496-3ff8-4b4b-8b6a-f3cd6a4a0350" absoluteBounds="0.75, 4.125, 2, 1.5891951497395827">
+      <DataClassMoniker Name="/DB_QuanLyChungCuDataContext/KhuCanHo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f26379b3-551f-4e3a-9dbc-f3635e7ec0a2" absoluteBounds="0.765, 4.585, 1.9700000000000002, 1.0291951497395833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 1.83394490559896); (3.5 : 1.83394490559896)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DB_QuanLyChungCuDataContext/CuDan/CuDan_CanHo" />
+      <nodes>
+        <classShapeMoniker Id="53fb5ef8-ed06-4b62-9271-574063940f56" />
+        <classShapeMoniker Id="0140490c-17f4-41ec-a5dc-cc8255bdba75" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 1.83742390950521); (5.79166666666667 : 1.83742390950521 : JumpStart); (5.95833333333333 : 1.83742390950521 : JumpEnd); (6.25 : 1.83742390950521)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DB_QuanLyChungCuDataContext/CanHo/CanHo_HopDong" />
+      <nodes>
+        <classShapeMoniker Id="0140490c-17f4-41ec-a5dc-cc8255bdba75" />
+        <classShapeMoniker Id="1c5f776f-532d-49b7-b140-9711153ed69c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.75 : 2.79288981119792); (1.75 : 3.04288981119792); (3.51041666666667 : 3.04288981119792 : JumpStart); (3.67708333333333 : 3.04288981119792 : JumpEnd); (5.875 : 3.04288981119792); (5.875 : 1.4499599547526); (6.25 : 1.4499599547526)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DB_QuanLyChungCuDataContext/CuDan/CuDan_HopDong" />
+      <nodes>
+        <classShapeMoniker Id="53fb5ef8-ed06-4b62-9271-574063940f56" />
+        <classShapeMoniker Id="1c5f776f-532d-49b7-b140-9711153ed69c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 5.39359781901042); (3.59375 : 5.39359781901042); (3.59375 : 2.79288981119792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DB_QuanLyChungCuDataContext/KhuCanHo/KhuCanHo_CanHo" />
+      <nodes>
+        <classShapeMoniker Id="3f201496-3ff8-4b4b-8b6a-f3cd6a4a0350" />
+        <classShapeMoniker Id="0140490c-17f4-41ec-a5dc-cc8255bdba75" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

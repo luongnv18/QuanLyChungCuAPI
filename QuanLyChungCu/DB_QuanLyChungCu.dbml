@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="DB_QuanLyChungCu" Class="DB_QuanLyChungCuDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=NVL-PC;Initial Catalog=DB_QuanLyChungCu;User ID=sa" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="DB_QuanLyChungCuConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.CanHo" Member="CanHos">
+    <Type Name="CanHo">
+      <Column Name="MaCanHo" Type="System.String" DbType="NChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="DienTich" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="Gia" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="TrangThai" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="SoPhong" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MaCuDan" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="MaKhu" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="CanHo_HopDong" Member="HopDongs" ThisKey="MaCanHo" OtherKey="MaCanHo" Type="HopDong" />
+      <Association Name="CuDan_CanHo" Member="CuDan" ThisKey="MaCuDan" OtherKey="MaCuDan" Type="CuDan" IsForeignKey="true" />
+      <Association Name="KhuCanHo_CanHo" Member="KhuCanHo" ThisKey="MaKhu" OtherKey="MaKhu" Type="KhuCanHo" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TaiKhoan" Member="TaiKhoans">
+    <Type Name="TaiKhoan">
+      <Column Name="TenTaiKhoan" Type="System.String" DbType="NChar(20) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="MatKhau" Type="System.String" DbType="NChar(20)" CanBeNull="true" />
+      <Column Name="VaiTro" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.CuDan" Member="CuDans">
+    <Type Name="CuDan">
+      <Column Name="MaCuDan" Type="System.String" DbType="NChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TenCuDan" Type="System.String" DbType="NVarChar(150)" CanBeNull="true" />
+      <Column Name="NgaySinh" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="GioiTinh" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="SoDT" Type="System.String" DbType="NChar(20)" CanBeNull="true" />
+      <Column Name="SoCMT" Type="System.String" DbType="NChar(20)" CanBeNull="true" />
+      <Column Name="QueQuan" Type="System.String" DbType="NVarChar(250)" CanBeNull="true" />
+      <Association Name="CuDan_CanHo" Member="CanHos" ThisKey="MaCuDan" OtherKey="MaCuDan" Type="CanHo" />
+      <Association Name="CuDan_HopDong" Member="HopDongs" ThisKey="MaCuDan" OtherKey="MaCuDan" Type="HopDong" />
+    </Type>
+  </Table>
+  <Table Name="dbo.HopDong" Member="HopDongs">
+    <Type Name="HopDong">
+      <Column Name="MaHopDong" Type="System.String" DbType="NChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="NgayGiaoDich" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="MaCanHo" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="MaCuDan" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Association Name="CanHo_HopDong" Member="CanHo" ThisKey="MaCanHo" OtherKey="MaCanHo" Type="CanHo" IsForeignKey="true" />
+      <Association Name="CuDan_HopDong" Member="CuDan" ThisKey="MaCuDan" OtherKey="MaCuDan" Type="CuDan" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.KhuCanHo" Member="KhuCanHos">
+    <Type Name="KhuCanHo">
+      <Column Name="MaKhu" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="TenKhu" Type="System.String" DbType="NVarChar(150)" CanBeNull="true" />
+      <Column Name="SoTang" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="SoCanHo" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DiaChi" Type="System.String" DbType="NVarChar(250)" CanBeNull="true" />
+      <Association Name="KhuCanHo_CanHo" Member="CanHos" ThisKey="MaKhu" OtherKey="MaKhu" Type="CanHo" />
+    </Type>
+  </Table>
+</Database>
